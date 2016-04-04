@@ -130,3 +130,10 @@ nav button {
 	}
 
 }
+
+section {
+	background: cover;
+	background-attachment: fixed;
+	height: 1000px;
+}
+
